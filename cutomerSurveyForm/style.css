@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(87, 87, 248);
+}
+
+.container {
+    /* border: 2px solid black; */
+    width: 70%;
+    margin: 0 auto;
+}
+
+form {
+    margin: 5%;
+}
+
+.inner {
+    background-color: white;
+}
+
+.child {
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    text-align: center;
+    color: antiquewhite
+}
+
+button {
+    background-color: rgb(14, 14, 252);
+    color: aliceblue;
+    padding: 5px;
+    width: 23%;
+    margin-bottom: 5%;
+}
+
+.child1 {
+    margin-top: 5%;
+}
+
+.footer {
+    color: aliceblue;
+}
+
+#footer {
+    text-align: center;
+}

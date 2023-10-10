@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Comic Sans MS";
+}
+
+body {
+    background-color: rgb(235, 232, 232);
+}
+
+td {
+    height: 50px;
+    width: 73px;
+    transition: 100ms;
+    border: 1px solid black;
+}
+
+#screen {
+    /* display: block;
+    padding: 4px;
+    border: 2px solid black;
+    margin: 20px auto;
+    font-size: 1.4rem; */
+    padding: 17px;
+    border: 2px solid black;
+    font-size: .8rem;
+    /* margin: 20px auto; */
+}
+
+.bt {
+    padding: 17px;
+    border: 2px solid black;
+    font-size: .8rem;
+    width: 21%;
+    background-color: aqua;
+    color: white;
+}
+
+button {
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+    /*point on button*/
+    font-size: 1.3rem;
+}
+
+.td {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    /* border: 2px solid black; */
+    margin: 10% auto;
+    width: 50%;
+}
+
+.td1 {
+    background-color: gray;
+}
